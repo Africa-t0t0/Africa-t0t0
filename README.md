@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as Django Full Stack Developer.<br><br>In the process of learning some languages and frameworks, currently learning Golang.
+I'm currently working as Django Full Stack Developer.<br><br>In the process of learning React!!!
 
 
 ## 🌐 Socials:
