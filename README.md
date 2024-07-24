@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently working as Django Full Stack Developer.<br><br>In the process of learning React!!!
 
 
