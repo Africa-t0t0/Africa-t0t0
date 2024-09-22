@@ -4,10 +4,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=africa-t0t0" alt="africa-t0t0" /></a> </p>
 
 - 🔭 I’m currently working as full stack developer in LarrainVial, using **React/Flask**
-
-- 🌱 I’m currently learning **React, WebSockets and Machine Learning.**
-
+  
 - I also worked at VIGIGO, where I served as a full-stack developer using **Django**
+
+- Currently learning **React, WebSockets and Machine Learning.**
+
 
 - 📫 How to reach me **jorge.ramirezz@mail.udp.cl**
 
