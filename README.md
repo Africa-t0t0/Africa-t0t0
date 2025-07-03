@@ -7,7 +7,7 @@
   
 - I also worked at VIGIGO, where I served as a full-stack developer using **Django**
 
-- Currently learning **React, WebSockets and Machine Learning.**
+- Currently expanding my JavaScript expertise through hands-on experience with frameworks such as Vite and Express
 
 
 - 📫 How to reach me **jorge.ramirezz@mail.udp.cl**
